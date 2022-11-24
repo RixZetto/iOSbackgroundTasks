@@ -82,4 +82,3 @@ fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
 
-iOSBackgroundTasksStoryboard/iOSBackgroundTasksStoryboard.xcodeproj/project.xcworkspace/xcuserdata/rix.xcuserdatad/UserInterfaceState.xcuserstate
